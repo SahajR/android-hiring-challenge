@@ -9,7 +9,7 @@ You are ideally required to complete all of them. However, you can complete any 
 Download the challenge apk from [here](https://github.com/SahajR/android-hiring-challenge/releases/tag/v1.0.0) or use [this direct link](https://github.com/SahajR/android-hiring-challenge/releases/download/v1.0.0/challenge_v1.apk). 
 
 ## Common UI elements of android
-<img src="/ui_elements.png" width=200 />
+<img src="/assets/ui_elements.png" width=200 />
 
 - Setup the navigation of the app as a three fragment bottom app bar UI
 - Create an edit text that only accepts decimal input
@@ -20,13 +20,13 @@ Download the challenge apk from [here](https://github.com/SahajR/android-hiring-
   * Both the text view and pie chart are reactive to the changes in the weight value
 
 ## Custom views
-<img src="/custom_views.png" width=200 />
+<img src="/assets/custom_views.png" width=200 />
 
 - Create a custom view that shows ranges when a list of integers (sorted-ascending, between 0 and 100) is given
-- <img src="/text.png" width=200 /> This particular text is applied on a `single` text view. Recreate this text view. Notice the color changes within spans.
+- <img src="/assets/text.png" width=200 /> This particular text is applied on a `single` text view. Recreate this text view. Notice the color changes within spans.
 
 ## Lists and sync app state
-<img src="/list_and_sync.png" width=200 />
+<img src="/assets/list_and_sync.png" width=200 />
 
 - The data on the first challenge should be reflected in this screen.
 - Add a list that has a `timeline` rail going on the left edge of the list items
