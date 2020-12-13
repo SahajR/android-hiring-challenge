@@ -13,7 +13,7 @@ You are ideally required to complete all of them. However, you can complete any 
 - Create an edit text that only accepts decimal input
   * It has an editable unit dropdown
   * It lets other UI elements know when the value has changed (**BONUS**: Throttle the input so that the change is propagated only when the value has changed for a significant amount of time)
-  * A text view shows the value of the input in grams. Make sure the conversion happens when the unit u=is set to `Kg`
+  * A text view shows the value of the input in grams. Make sure the conversion happens when the unit is set to `Kg`
   * A simple pie chart that shows the total vs supplied amount ratios
   * Both the text view and pie chart are reactive to the changes in the weight value
 
