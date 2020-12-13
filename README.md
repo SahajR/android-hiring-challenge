@@ -6,6 +6,8 @@ You are ideally required to complete all of them. However, you can complete any 
 
 **DO NOT use any third-party libraries in the solution project. Only android components and libraries are allowed**
 
+Download the challenge apk from [here](https://github.com/SahajR/android-hiring-challenge/releases/tag/v1.0.0) or use [this direct link](https://github.com/SahajR/android-hiring-challenge/releases/download/v1.0.0/challenge_v1.apk). 
+
 ## Common UI elements of android
 <img src="/ui_elements.png" width=200 />
 
