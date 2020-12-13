@@ -34,6 +34,6 @@ Download the challenge apk from [here](https://github.com/SahajR/android-hiring-
 ## Submitting
 
 Mail the following to [hello@sahajr.com](mailto:hello@sahajr.com?subject=[Hiring%20Challenge]%20Your%20name):
-- zipped project (make sure to delete the build directory)
+- zipped project (make sure to delete the build directory) or a link to a `fork` of this repository with your app implemented in the [solution folder](/solution)
 - APK of the app
 - Explanation of how you arrived at the correct tools / android components to develop the solutions
