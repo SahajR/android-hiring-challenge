@@ -8,6 +8,8 @@ You are ideally required to complete all of them. However, you can complete any 
 
 Download the challenge apk from [here](https://github.com/SahajR/android-hiring-challenge/releases/tag/v1.0.0) or use [this direct link](https://github.com/SahajR/android-hiring-challenge/releases/download/v1.0.0/challenge_v1.apk). 
 
+[Fork this repository](https://github.com/SahajR/android-hiring-challenge/fork) and implement your solution in [solution folder](/solution).
+
 ## Common UI elements of android
 <img src="/assets/ui_elements.png" width=200 />
 
